@@ -1,0 +1,28 @@
+#body{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.w-50{
+    margin-left: 25%;
+    margin-bottom: 10px;
+}
+
+.bg-dark{
+    margin-top: 10px;
+}
+
+#Followers, #Following {
+    color: #868686;
+}
+
+.edit {
+    margin-right: 5px;
+}
+
+.btn-link{
+    padding: 0 0 0 0;
+}
+
+#pagination{
+}
